@@ -64,14 +64,8 @@ EddieAI, Msty, n8n, Nvim <span class="iconify" data-icon="skill-icons:neovim-lig
 
 ## Certificates
 
-**Google AI Essentials by Google on Coursera. (July 28, 2025)** 
-<img style="float: right;" src="https://images.credly.com/size/340x340/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" width="50" height="50"/>
-<img style="float: right;" src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="50" height="50"/>
-<img style="float: right;" src="https://images.credly.com/size/340x340/images/e5d0c55b-6904-4764-973a-25bd210ccd1a/blob" width="50" height="50"/>
-
+**Google AI Essentials by Google on Coursera. (July 28, 2025)**     <img style="float: right;" src="https://images.credly.com/size/340x340/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" width="50" height="50"/>    <img style="float: right;" src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="50" height="50"/> 
 
 **Google Prompting Essentials by Google on Coursera. (July 31, 2025)** 
 
 **SQL for Data Analytics (Luke Barousse)** 
-
-**Google Data Analytics Professional Certificate** (In Progress)
