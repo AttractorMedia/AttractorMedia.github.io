@@ -12,8 +12,7 @@
 
 # REEL
 
-
-[Reel](https://vimeo.com/4119605?share=copy)
+{% include vimeoPlayer.html id=page.4119605 %}
 
 ## Experience
 
