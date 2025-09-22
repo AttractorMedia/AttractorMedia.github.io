@@ -6,6 +6,7 @@ email: attractormedia@gmail.com
 github: https://github.com/AttractorMedia
 linkedin: https://www.linkedin.com/in/daviddawes/
 huggingface: https://huggingface.co/Ddawes
-remote_theme: sharu725/online-cv
-theme_skin: orange
+#remote_theme: sharu725/online-cv
+theme: jekyll-theme-minimal
+#theme_skin: orange
 vimeoId: 4119605
