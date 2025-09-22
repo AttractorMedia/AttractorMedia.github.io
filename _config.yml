@@ -24,6 +24,6 @@ markdown: kramdown
 #remote_theme: sharu725/online-cv
 #theme_skin: orange
 #theme: jekyll-theme-minimal
-theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: dark
 vimeoId: 4120329
