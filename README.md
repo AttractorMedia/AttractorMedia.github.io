@@ -51,8 +51,7 @@ EddieAI, Msty, n8n, Nvim <span class="iconify" data-icon="skill-icons:neovim-lig
 - The Ambush Cook 
 
 ## **Streaming - Feature Films - Documentaries**
-- The Booth at the End -  62-episode web series directed by Jessica Landaw. Available on [**Tubi**](https://tubitv.com/series/4581/the-booth-at-the-end?start=true&tracking=google-feed&utm_source=google-feed)
-<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Tubi_logo_2024_purple.svg" width="60" height="60"/>
+- The Booth at the End -  62-episode web series directed by Jessica Landaw. Available on [**Tubi**](https://tubitv.com/series/4581/the-booth-at-the-end?start=true&tracking=google-feed&utm_source=google-feed) <img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Tubi_logo_2024_purple.svg" width="60" height="60"/>
 - Disclosure - To Tell or Not To Tell – Directed by Vanessa Roth & Ali Dixon  
 - Swimming Upstream (PieTown Productions) – Directed by Jennifer Gold  
 - Print Shop (Feature Film) - Directed by Rodney Beckwith 
@@ -60,7 +59,8 @@ EddieAI, Msty, n8n, Nvim <span class="iconify" data-icon="skill-icons:neovim-lig
 
 ## **Certificates**
 
-**Google AI Essentials by Google on Coursera. (July 28, 2025)**     <img style="float: right;" src="https://images.credly.com/size/340x340/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" width="50" height="50"/>    <img style="float: right;" src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="50" height="50"/> 
+<img style="float: right;" src="https://images.credly.com/size/340x340/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" width="50" height="50"/>    <img style="float: right;" src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="50" height="50"/> 
+**Google AI Essentials by Google on Coursera. (July 28, 2025)** 
 
 **Google Prompting Essentials by Google on Coursera. (July 31, 2025)** 
 
