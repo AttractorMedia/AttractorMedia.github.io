@@ -50,7 +50,8 @@ Video editor with a strong background in lifestyle content, reality television, 
 - The Ambush Cook 
 
 ## **Streaming - Feature Films - Documentaries**
-- The Booth at the End -  62-episode web series directed by Jessica Landaw. Available on [**Tubi**](https://tubitv.com/series/4581/the-booth-at-the-end?start=true&tracking=google-feed&utm_source=google-feed) <img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Tubi_logo_2024_purple.svg" width="60" height="60"/>
+<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Tubi_logo_2024_purple.svg" width="60" height="60"/>
+- The Booth at the End -  62-episode web series directed by Jessica Landaw. Available on [**Tubi**](https://tubitv.com/series/4581/the-booth-at-the-end?start=true&tracking=google-feed&utm_source=google-feed) 
 - Disclosure - To Tell or Not To Tell – Directed by Vanessa Roth & Ali Dixon  
 - Swimming Upstream (PieTown Productions) – Directed by Jennifer Gold  
 - Print Shop (Feature Film) - Directed by Rodney Beckwith 
