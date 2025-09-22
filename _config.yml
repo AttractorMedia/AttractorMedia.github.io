@@ -1,11 +1,11 @@
 title: David Dawes
-  logo: "/assets/img/headshot.jpeg"
-  Experience: Video editor with a strong background in lifestyle content, reality television, 
-              and documentary editing. Skilled in storytelling, pacing, and technical execution 
-              across multiple genres, including home renovation, cooking, lifestyle programming, 
-              and feature films. Proven ability to manage tight deadlines and collaborate with producers 
-              and directors to shape narratives and  deliver engaging content for national broadcast 
-              and streaming platforms.
+descriptions: Digital Media Editor/producer
+
+author:
+  logo: /assets/img/headshot.jpeg
+  bio: 
+    Video editor with a strong background in lifestyle content, reality television, and documentary editing.
+    Skilled in storytelling, pacing, and technical execution across multiple genres.
   links:
     - labels: "phone"
       url: "(310) 739-8643"
@@ -14,7 +14,7 @@ title: David Dawes
     - labels: "Hugging Face"
       url: "https://huggingface.co/Ddawes"
     - labels: "Github"
-      icons: "fa-brands fa-github"  # Corrected: Put icons here
+      icons: "fab fa-fw fa-github"  # Corrected: Put icons here
       url: "https://github.com/AttractorMedia"
     - labels: "LinkedIn"  # Corrected: Corrected the spelling
       icons: "fa-brands fa-linkedin" # Corrected: Put icons here
