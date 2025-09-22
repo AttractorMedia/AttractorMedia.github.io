@@ -1,30 +1,30 @@
 title: David Dawes
 descriptions: Digital Media Editor/producer
+
 author:
   logo: /assets/img/headshot.jpeg
-  bio: Video editor with a strong background in lifestyle content, reality television, and documentary editing. 
-       Skilled in storytelling, pacing, and technical execution across multiple genres.
+  bio: |
+    Video editor with a strong background in lifestyle content, reality television, and documentary editing.
+    Skilled in storytelling, pacing, and technical execution across multiple genres.
   links:
     - labels: "phone"
-      #icons: "fab fa-fw fa-github"
       url: "(310) 739-8643"
     - labels: "email"
       url: "attractormedia@gmail.com"
-      #icons: "fab fa-fw fa-github"
     - labels: "Hugging Face"
-      #icons: "fab fa-fw fa-github"
       url: "https://huggingface.co/Ddawes"
     - labels: "Github"
-      icons: "fab fa-fw fa-github"
+      icons: "fa-brands fa-github"  # Corrected: Put icons here
       url: "https://github.com/AttractorMedia"
-    - labels: "Linkdin"
-      icons: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/daviddawes"  
+    - labels: "LinkedIn"  # Corrected: Corrected the spelling
+      icons: "fa-brands fa-linkedin" # Corrected: Put icons here
+      url: "https://www.linkedin.com/in/daviddawes"
+
 header: /assets/img/linkedin banner.jpg
-#markdown: kramdown
-#remote_theme: sharu725/online-cv
-#theme_skin: orange
+#markdown: kramdown  # Remove or comment out this line. Let Jekyll handle markdown.
+#remote_theme: sharu725/online-cv #Remove this, as you are using a local theme.
+#theme_skin: orange #Remove this, as you are using a local theme.
 theme: jekyll-theme-minimal
-#remote_theme: mmistakes/minimal-mistakes
-#minimal_mistakes_skin: dark
+#remote_theme: mmistakes/minimal-mistakes #Remove this, as you are using a local theme.
+#minimal_mistakes_skin: dark #Remove this, as you are using a local theme.
 vimeoId: 4120329
