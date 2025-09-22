@@ -21,9 +21,9 @@ author:
       icons: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/daviddawes"  
 #markdown: kramdown
-remote_theme: sharu725/online-cv
-theme_skin: orange
-#theme: jekyll-theme-minimal
+#remote_theme: sharu725/online-cv
+#theme_skin: orange
+theme: jekyll-theme-minimal
 #remote_theme: mmistakes/minimal-mistakes
 #minimal_mistakes_skin: dark
 vimeoId: 4120329
