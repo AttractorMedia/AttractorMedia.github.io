@@ -19,9 +19,9 @@ author:
     - labels: "LinkedIn"  # Corrected: Corrected the spelling
       icons: "fa-brands fa-linkedin" # Corrected: Put icons here
       url: "https://www.linkedin.com/in/daviddawes"
-theme: jekyll-theme-minimal
-#remote_theme: sharu725/online-cv #Remove this, as you are using a local theme.
-#theme_skin: orange #Remove this, as you are using a local theme.
+#theme: jekyll-theme-minimal
+remote_theme: sharu725/online-cv #Remove this, as you are using a local theme.
+theme_skin: orange #Remove this, as you are using a local theme.
 #remote_theme: mmistakes/minimal-mistakes #Remove this, as you are using a local theme.
 #minimal_mistakes_skin: dark #Remove this, as you are using a local theme.
 #vimeoId: 4120329
