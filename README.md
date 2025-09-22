@@ -1,4 +1,4 @@
-# David Dawes - Digital Media Editor/Producer
+# Digital Media Editor/Producer
 
 <span class="iconify" data-icon="logos:vimeo-icon"></span> [Reel](https://vimeo.com/attractormedia)
 
