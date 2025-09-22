@@ -4,9 +4,11 @@ bio: Video editor with a strong background in lifestyle content, reality televis
      Skilled in storytelling, pacing, and technical execution across multiple genres.
 descriptions: Digital Media Editor/producer
 email: attractormedia@gmail.com
+phone: (310) 739-8643
 github: https://github.com/AttractorMedia
-linkedin: https://www.linkedin.com/in/daviddawes/
-huggingface: https://huggingface.co/Ddawes
+linkedin: ![](assets/img/LinkedIn.svg 'width="5" height="5"')(https://www.linkedin.com/in/daviddawes)
+huggingface: [](assets/img/hf-logo.png 'width="5" height="5"')(https://huggingface.co/Ddawes)
+icons: show
 #remote_theme: sharu725/online-cv
 theme: jekyll-theme-Minimal
 #theme_skin: orange
