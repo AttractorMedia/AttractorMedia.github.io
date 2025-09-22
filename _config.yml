@@ -1,14 +1,28 @@
 title: David Dawes
-logo: /assets/img/headshot.jpeg
-bio: Video editor with a strong background in lifestyle content, reality television, and documentary editing. 
-     Skilled in storytelling, pacing, and technical execution across multiple genres.
 descriptions: Digital Media Editor/producer
-email: attractormedia@gmail.com
-phone: (310) 739-8643
-github: https://github.com/AttractorMedia
-linkedin: https://www.linkedin.com/in/daviddawes
-huggingface: https://huggingface.co/Ddawes
+author:
+  avatar: /assets/img/headshot.jpeg
+  bio: Video editor with a strong background in lifestyle content, reality television, and documentary editing. 
+       Skilled in storytelling, pacing, and technical execution across multiple genres.
+  links:
+    - labels: "phone"
+      icons: "fab fa-fw fa-github"
+      url: "(310) 739-8643"
+    - labels: "email
+      url: "attractormedia@gmail.com"
+      icons: "fab fa-fw fa-github"
+    - labels: "Hugging Face"
+      icons: "fab fa-fw fa-github"
+      url: "https://huggingface.co/Ddawes"
+    - labels: "Github"
+      icons: "fab fa-fw fa-github"
+      url: "https://github.com/AttractorMedia"
+    - labels: "Linkdin"
+      icons: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/daviddawes"  
+markdown: kramdown
 #remote_theme: sharu725/online-cv
-theme: jekyll-theme-minimal
 #theme_skin: orange
+#theme: jekyll-theme-minimal
+theme: mmistakes/minimal-mistakes
 vimeoId: 4120329
