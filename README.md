@@ -1,8 +1,8 @@
-# Digital Media Editor/Producer
+# **Digital Media Editor/Producer**
 
 {% include vimeoPlayer.html vimeoId="4120329" %}
 
-## Experience
+## **Experience**
 
 Video editor with a strong background in lifestyle content, reality television, and documentary editing. Skilled in storytelling, pacing, and technical execution across multiple genres, including home renovation, cooking, lifestyle programming, and feature films. Proven ability to manage tight deadlines and collaborate with producers and directors to shape narratives and  deliver engaging content for national broadcast and streaming platforms.
 
@@ -13,7 +13,7 @@ Video editor with a strong background in lifestyle content, reality television, 
 <span class="iconify" data-icon="arcticons:openai-chatgpt"></span>, 
 EddieAI, Msty, n8n, Nvim <span class="iconify" data-icon="skill-icons:neovim-light"></span>, VSCode <span class="iconify" data-icon="skill-icons:vscode-light"></span>, Quarto <span class="iconify" data-icon="skill-icons:markdown-light"></span>)
 
-## Selected Work - Series
+## **Selected Work - Series**
 
 - Flip or Flop (Seasons 1–10, **Pilot Editor**)
 <img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" width="70" height="70"/> 
@@ -62,7 +62,7 @@ EddieAI, Msty, n8n, Nvim <span class="iconify" data-icon="skill-icons:neovim-lig
 - Print Shop (Feature Film) - Directed by Rodney Beckwith 
 - In the Name of Justice (Feature Film) – Directed by John Pogue  
 
-## Certificates
+## **Certificates**
 
 **Google AI Essentials by Google on Coursera. (July 28, 2025)**     <img style="float: right;" src="https://images.credly.com/size/340x340/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" width="50" height="50"/>    <img style="float: right;" src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="50" height="50"/> 
 
