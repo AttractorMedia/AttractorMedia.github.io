@@ -8,7 +8,7 @@ author:
     - labels: "phone"
       icons: "fab fa-fw fa-github"
       url: "(310) 739-8643"
-    - labels: "email
+    - labels: "email"
       url: "attractormedia@gmail.com"
       icons: "fab fa-fw fa-github"
     - labels: "Hugging Face"
@@ -25,4 +25,5 @@ markdown: kramdown
 #theme_skin: orange
 #theme: jekyll-theme-minimal
 theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: dark
 vimeoId: 4120329
