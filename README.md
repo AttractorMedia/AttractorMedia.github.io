@@ -1,3 +1,4 @@
+[]("/assets/img/linkedin banner.jpg")
 # **Digital Media Editor/Producer**
 
 {% include vimeoPlayer.html vimeoId="4120329" %}
