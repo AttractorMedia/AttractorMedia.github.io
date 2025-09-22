@@ -1,14 +1,10 @@
 # Digital Media Editor/Producer
 
-<span class="iconify" data-icon="logos:vimeo-icon"></span> [Reel](https://vimeo.com/attractormedia)
-
-<span class="iconify" data-icon="streamline-ultimate-color:email-action-add">  </span> [attractormedia@gmail.com](mailto:attractormedia@gmail.com)
-
-<span class="iconify" data-icon="tabler:phone"></span> (310) 739-8643
-
-<span class="iconify" data-icon="skill-icons:linkedin"></span> [linkedin](https://www.linkedin.com/in/daviddawes)
-
-<span class="iconify" data-icon="skill-icons:github-dark"></span> [Github](https://github.com/AttractorMedia)
+### Contact Information
+- **Email**: attractormedia@gmail.com
+- **Phpne**: (310) 739-8643
+- **LinkedIn**: [![LinkedIn Logo](assets/img/linkedin-logo.png)](https://www.linkedin.com/in/daviddawes)
+- **Hugging Face**: [![Hugging Face Logo](assets/img/huggingface-logo.png)](https://huggingface.co/Ddawes)
 
 # REEL
 
