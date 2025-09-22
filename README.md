@@ -1,4 +1,5 @@
-[]("/assets/img/linkedin banner.jpg")
+<img style="float: middle;" src="/assets/img/linkedin banner.jpg" width="50%" height="50%"/>
+
 # **Digital Media Editor/Producer**
 
 {% include vimeoPlayer.html vimeoId="4120329" %}
@@ -17,7 +18,7 @@ EddieAI, Msty, n8n, Nvim <span class="iconify" data-icon="skill-icons:neovim-lig
 ## **Selected Work - Series**
 
 - Flip or Flop (Seasons 1–10, **Pilot Editor**)
-<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" width="70" height="70"/>
+<img style="float: middle;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" width="100" height="100"/>
 - House Hunters / House Hunters International 
 - Christina on the Coast
 - Rustic Rehab 
