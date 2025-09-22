@@ -20,6 +20,7 @@ author:
     - labels: "Linkdin"
       icons: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/daviddawes"  
+header: /assets/img/linkedin banner.jpg
 #markdown: kramdown
 #remote_theme: sharu725/online-cv
 #theme_skin: orange
