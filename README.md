@@ -16,24 +16,32 @@ EddieAI, Msty, n8n, Nvim <span class="iconify" data-icon="skill-icons:neovim-lig
 ## **Selected Work - Series**
 
 - Flip or Flop (Seasons 1–10, **Pilot Editor**)
-[<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" width="70" height="70"/>]{.aside}
+:::{.column-margin}
+<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" width="70" height="70"/>
+:::
 - House Hunters / House Hunters International 
 - Christina on the Coast
 - Rustic Rehab 
 - House Hunters Renovation  
 - Vintage Flip (**Pilot Editor**)  
 - Joan & Melissa: Joan Knows Best (Seasons 2–4) 
-[<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/3/31/WE_tv.svg" width="60" height="60"/>]{.aside}
+:::{.column-margin}
+<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/3/31/WE_tv.svg" width="60" height="60"/>
+:::
 - Downsized  
 - Take My Kids Please (**Pilot Editor**)  
 - Tune Up My Man (**Pilot Editor**) 
-[<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Food-Network-Logo.svg" width="50" height="50"/>]{.aside}
+:::{.column-margin}
+<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Food-Network-Logo.svg" width="50" height="50"/>
+:::
 - Meat & Potatoes
 - Chef Vs. City
 - 40 Dollars a Day with Rachael Ray
 - Rachael Ray's Tasty Travels
 - Take It Off
-[<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" width="70" height="70"/>]{.aside}
+:::{.column-margin}
+<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" width="70" height="70"/>
+:::
 - Designing for the Sexes 
 - Hammer Heads
 - Take Over My Makeover 
@@ -43,14 +51,20 @@ EddieAI, Msty, n8n, Nvim <span class="iconify" data-icon="skill-icons:neovim-lig
 - Landscapers' Challenge  
 - Designed to Sell  
 - Going Home 
-[<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/7/74/TLC_Logo.svg" width="50" height="50"/>]{.aside}
+:::{.column-margin}
+<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/7/74/TLC_Logo.svg" width="50" height="50"/>
+:::
 - UnHinged  
 - Baby Story 
 - U.S. Marshals, The Real Story – 3 part series
-[<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" width="70" height="70"/>]{.aside}
+:::{.column-margin}
+<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" width="70" height="70"/>
+:::
 - Diettribe 
 - Head to Toe  
-[<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/OWN_2011_logo.svg" width="70" height="70"/>]{.aside}
+:::{.column-margin}
+<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/OWN_2011_logo.svg" width="70" height="70"/>
+:::
 - Rolling with Zach Anner  
 - The Ambush Cook 
 
