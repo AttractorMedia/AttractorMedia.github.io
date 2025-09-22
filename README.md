@@ -1,14 +1,5 @@
 # Digital Media Editor/Producer
 
-### Contact Information
-- **Email**: attractormedia@gmail.com
-- **Phone**: (310) 739-8643
-- **LinkedIn**: ![](assets/img/LinkedIn.svg 'width="5" height="5"')(https://www.linkedin.com/in/daviddawes)
-- **Hugging Face**: ![](assets/img/hf-logo.png 'width="5" height="5"')(https://huggingface.co/Ddawes)
-
-
-# REEL
-
 {% include vimeoPlayer.html id=page.4119605 %}
 
 ## Experience
