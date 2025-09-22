@@ -6,13 +6,13 @@ author:
        Skilled in storytelling, pacing, and technical execution across multiple genres.
   links:
     - labels: "phone"
-      icons: "fab fa-fw fa-github"
+      #icons: "fab fa-fw fa-github"
       url: "(310) 739-8643"
     - labels: "email"
       url: "attractormedia@gmail.com"
-      icons: "fab fa-fw fa-github"
+      #icons: "fab fa-fw fa-github"
     - labels: "Hugging Face"
-      icons: "fab fa-fw fa-github"
+      #icons: "fab fa-fw fa-github"
       url: "https://huggingface.co/Ddawes"
     - labels: "Github"
       icons: "fab fa-fw fa-github"
