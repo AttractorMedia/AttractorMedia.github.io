@@ -8,5 +8,6 @@ linkedin: https://www.linkedin.com/in/daviddawes/
 huggingface: https://huggingface.co/Ddawes
 
 # show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-online-cv
+theme_skin: orange
 vimeoId: 4119605
