@@ -1,4 +1,4 @@
-<img style="float: middle;" src="/assets/img/linkedin banner.jpg" width="100%" height="100%"/>
+<img style="float: middle;" src="/assets/img/linkedin banner.jpg" width="120%" height="120%"/>
 
 # **Digital Media Editor/Producer**
 
@@ -9,11 +9,10 @@
 Video editor with a strong background in lifestyle content, reality television, and documentary editing. Skilled in storytelling, pacing, and technical execution across multiple genres, including home renovation, cooking, lifestyle programming, and feature films. Proven ability to manage tight deadlines and collaborate with producers and directors to shape narratives and  deliver engaging content for national broadcast and streaming platforms.
 
 ## **Skills**
-- Video editing (Avid Media Composer, Davinci Resolve <span class="iconify" data-icon="simple-icons:davinciresolve"></span>, Adobe Premiere Pro <span class="iconify" data-icon="logos:adobe-premiere"></span>, Final Cut Pro <span class="iconify" data-icon="skill-icons:apple-light"></span>)  
-- Motion graphics (Fusion<span class="iconify" data-icon="simple-icons:blackmagicdesign"></span>, After Effects <span class="iconify" data-icon="logos:adobe-after-effects"></span>, Blender3D  <span class="iconify" data-icon="skill-icons:blender-light"></span>)
-- AI skills (Ollama<span class="iconify" data-icon="simple-icons:ollama"></span>, ComfyUI, ChatGPT
-<span class="iconify" data-icon="arcticons:openai-chatgpt"></span>, 
-EddieAI, Msty, n8n, Nvim <span class="iconify" data-icon="skill-icons:neovim-light"></span>, VSCode <span class="iconify" data-icon="skill-icons:vscode-light"></span>, Quarto <span class="iconify" data-icon="skill-icons:markdown-light"></span>)
+- **Video editing** (Avid Media Composer, Davinci Resolve, Adobe Premiere Pro, Final Cut Pro)
+- **Motion graphics** (Fusion, After Effects, Blender3D)
+- **AI skills** (Ollama, ComfyUI, ChatGPT, EddieAI, Msty, n8n)
+- **Data** (Nvim, VSCode, Quarto)
 
 ## **Selected Work - Series**
 
