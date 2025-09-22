@@ -2,9 +2,9 @@
 
 ### Contact Information
 - **Email**: attractormedia@gmail.com
-- **Phpne**: (310) 739-8643
-- **LinkedIn**: [![LinkedIn Logo](assets/img/linkedin.png)](https://www.linkedin.com/in/daviddawes)
-- **Hugging Face**: [![Hugging Face Logo](assets/img/hf-logo.png)](https://huggingface.co/Ddawes)
+- **Phone**: (310) 739-8643
+- **LinkedIn**: ![](assets/img/linkedin.png)(https://www.linkedin.com/in/daviddawes)
+- **Hugging Face**: ![](assets/img/hf-logo.png width="70" height="70")](https://huggingface.co/Ddawes)
 
 # REEL
 
