@@ -5,6 +5,8 @@
 - **Phone**: (310) 739-8643
 - **LinkedIn**: ![](assets/img/LinkedIn.svg 'width="10" height="10" style="float: right;')(https://www.linkedin.com/in/daviddawes)
 - **Hugging Face**: ![](assets/img/hf-logo.png 'width="10" height="10" style="float: right;')(https://huggingface.co/Ddawes)
+- <iconify-icon icon="mdi:star" width="24" height="24" style="color: gold;"></iconify-icon>
+After Effects <iconify-icon icon="logos:adobe-after-effects">
 
 # REEL
 
