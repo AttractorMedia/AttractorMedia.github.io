@@ -1,20 +1,18 @@
 author: true
 author.name: David Dawes
-author:
-  logo: /assets/img/headshot.jpeg
-  bio: 
-    Video editor, Digital Media, Ai content producer
-  links:
-    - email: attractormedia@gmail.com
-    - labels: "Hugging Face"
-      url: "https://huggingface.co/Ddawes"
-      icons: "fa-regular fa-face-smiling-hands"
-    - labels: "Github"
-      icons: "fab fa-fw fa-github"  # Corrected: Put icons here
-      url: "https://github.com/AttractorMedia"
-    - labels: "LinkedIn"  # Corrected: Corrected the spelling
-      icons: "fa-brands fa-linkedin" # Corrected: Put icons here
-      url: "https://www.linkedin.com/in/daviddawes"
+logo: /assets/img/headshot.jpeg
+bio: Video editor, Digital Media, Ai content producer
+links:
+email: attractormedia@gmail.com
+labels: "Hugging Face"
+url: "https://huggingface.co/Ddawes"
+icons: "fa-regular fa-face-smiling-hands"
+labels: "Github"
+icons: "fab fa-fw fa-github"  # Corrected: Put icons here
+url: "https://github.com/AttractorMedia"
+labels: "LinkedIn"  # Corrected: Corrected the spelling
+icons: "fa-brands fa-linkedin" # Corrected: Put icons here
+url: "https://www.linkedin.com/in/daviddawes"
 remote_theme: pages-themes/midnight@v0.2.0
 #remote_theme: sharu725/online-cv #Remove this, as you are using a local theme.
 #theme_skin: orange #Remove this, as you are using a local theme.
