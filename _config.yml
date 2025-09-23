@@ -5,7 +5,7 @@ author:
   bio: 
     Video editor, Digital Media, Ai content producer
   links:
-    - labels: [email]{attractormedia@gmail.com}
+    - email: attractormedia@gmail.com
     - labels: "Hugging Face"
       url: "https://huggingface.co/Ddawes"
       icons: "fa-regular fa-face-smiling-hands"
