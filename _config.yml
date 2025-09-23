@@ -13,6 +13,7 @@ author:
       url: "attractormedia@gmail.com"
     - labels: "Hugging Face"
       url: "https://huggingface.co/Ddawes"
+      icons: "fa-regular fa-face-smiling-hands"
     - labels: "Github"
       icons: "fab fa-fw fa-github"  # Corrected: Put icons here
       url: "https://github.com/AttractorMedia"
@@ -20,8 +21,8 @@ author:
       icons: "fa-brands fa-linkedin" # Corrected: Put icons here
       url: "https://www.linkedin.com/in/daviddawes"
 #theme: jekyll-theme-minimal
-remote_theme: sharu725/online-cv #Remove this, as you are using a local theme.
-theme_skin: orange #Remove this, as you are using a local theme.
-#remote_theme: mmistakes/minimal-mistakes #Remove this, as you are using a local theme.
-#minimal_mistakes_skin: dark #Remove this, as you are using a local theme.
+#remote_theme: sharu725/online-cv #Remove this, as you are using a local theme.
+#theme_skin: orange #Remove this, as you are using a local theme.
+remote_theme: mmistakes/minimal-mistakes #Remove this, as you are using a local theme.
+minimal_mistakes_skin: dark #Remove this, as you are using a local theme.
 #vimeoId: 4120329
