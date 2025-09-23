@@ -1,6 +1,5 @@
-title: David Dawes
-descriptions: Digital Media Editor/producer
-
+author: true
+author.name: David Dawes
 author:
   logo: /assets/img/headshot.jpeg
   bio: 
@@ -20,7 +19,9 @@ author:
     - labels: "LinkedIn"  # Corrected: Corrected the spelling
       icons: "fa-brands fa-linkedin" # Corrected: Put icons here
       url: "https://www.linkedin.com/in/daviddawes"
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/midnight@v0.2.0
+   plugins:
+      - jekyll-remote-theme # add this line to the plugins list if you already have one.
 #remote_theme: sharu725/online-cv #Remove this, as you are using a local theme.
 #theme_skin: orange #Remove this, as you are using a local theme.
 #remote_theme: mmistakes/minimal-mistakes #Remove this, as you are using a local theme.
