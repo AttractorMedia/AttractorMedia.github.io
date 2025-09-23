@@ -1,0 +1,12 @@
+<div class="author">
+  <img src="{{ site.author.logo | default: site.author.url }}" alt="{{ site.author.name }}" />
+  <h3>{{ site.author.name }}</h3>
+  <p>{{ site.author.bio | replace: "\n", '<br>' }}</p>
+  <ul>
+    {% for link in site.author.links %}
+      <li>
+        <a href="{{ link.url }}" {% if link.icons %}class="fa fa-fw {{ link.icons }}"{% endif %}>{{ link.labels }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
